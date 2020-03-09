@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eeeeee;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container {
+    width: 98%;
+    height: 97%;
+    background-color: #e3e3e3;
+    position: absolute;
+    margin: 17px 19px 7px 17px;
+    border-radius: 7px;
+}
